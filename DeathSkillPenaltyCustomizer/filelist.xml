@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="DeathSkillPenaltyCustomizer" modversion="1.0.1" corepackage="False" steamworkshopid="2804830024" gameversion="0.17.15.0">
+  <Other file="%ModDir%/Lua/config.lua" />
+  <Other file="%ModDir%/Lua/Autorun/init.lua" />
+  <Other file="%ModDir%/Lua/dspc.lua" />
+</contentpackage>
